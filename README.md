@@ -1,16 +1,20 @@
-## Hi there 👋
+### Merhaba! 👋
+ C# ve .NET Core teknolojilerine tutkuyla bağlı, gelişmeleri yakından takip eden bir geliştiriciyim.
 
-<!--
-**yunusemrebinici/yunusemrebinici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* 📫 Bana [*biniciyemre@gmail.com*] üzerinden ulaşabilirsiniz. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### Yeteneklerim:
+- **Diller:** C#, SQL, JavaScript
+- **Frameworkler:** .NET/.NET Core, ASP.NET Core MVC/API, Entity Framework Core
+- **Veritabanları:** SQL Server, PostgreSQL, MongoDB
+- **Versiyon Kontrol:** Git, GitHub
+- **Web Temelleri:** HTML5, CSS3
+- **API Mimarileri:** RESTful API
+- **Araçlar/Dökümantasyon:** Swagger/OpenAPI
+
+
+---
