@@ -2,7 +2,7 @@
  C# ve .NET Core teknolojilerine tutkuyla bağlı, gelişmeleri yakından takip eden bir geliştiriciyim.
 
 
-* 📫 Bana [*biniciyemre@gmail.com*] üzerinden ulaşabilirsiniz. 
+* Bana [biniciyemre@gmail.com](mailto:biniciyemre@gmail.com) adresinden ulaşabilirsiniz. 
 
 
 ---
